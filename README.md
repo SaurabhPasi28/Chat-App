@@ -1,4 +1,4 @@
 # Chat-App
 This is my first repository
 <br>
-Author: Saurabh Pasi
+Author: Saurabh Pasi (SP)
